@@ -54,9 +54,10 @@
 
 ## Output:
 
+![image](/WhatsApp%20Image%202024-04-12%20at%2010.37.20_ed8994ea.jpg)
 
-### Name:
-### Register Number: 
+### Name: PRITHIVIRAJAN V
+### Register Number: 212223100042
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
